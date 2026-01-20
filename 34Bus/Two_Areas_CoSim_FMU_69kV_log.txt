@@ -1,0 +1,2 @@
+FMIL: module = Model, log level = 2: [logFmi2Call][FMU status:Error] fmi2EnterInitializationMode: terminated by an assertion.
+FMIL: module = Model, log level = 2: [logFmi2Call][FMU status:Error] fmi2EnterInitializationMode: terminated by an assertion.

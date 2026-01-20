@@ -1,0 +1,7 @@
+FMIL: module = Model, log level = 4: [logFmi2Call][FMU status:OK] fmi2Terminate
+FMIL: module = Model, log level = 4: [logFmi2Call][FMU status:OK] fmi2FreeInstance
+FMIL: module = Model, log level = 4: [logAll][FMU status:OK] fmi2FreeInstance: Freeing solver data.
+FMIL: module = FMILIB, log level = 5: Releasing FMU CAPI interface
+FMIL: module = FMICAPI, log level = 5: Successfully unloaded FMU binary
+FMIL: module = FMILIB, log level = 5: Releasing allocated library resources
+FMIL: module = JMPRT, log level = 5: Removing C:\Users\emrkay\AppData\Local\Temp\JModelica.org\jm_tmp51tstthp
