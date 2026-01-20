@@ -1,9 +1,10 @@
-Requirements:
-matplotlib==3.10.8
-numpy==2.4.1
+
 Unofficial implementation of the paper 
 "Co-simulation applied to power systems with high penetration of distributed energy resources" (Chagas & Tomim, 2022)
 
+Requirements:
+matplotlib
+numpy
 PyFMI
 tkinter
 json
