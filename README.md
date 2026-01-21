@@ -12,4 +12,4 @@ Unofficial implementation of the paper
 
 - Run cosim_master_fmu_opendss2.py to co-simulate FMU and OpenDSS.
 
-**Note:** OpenModelica source files (.mo files) are provided for reference. Install OpenModelica and OpenIPSL if you want to export FMUS by compiling them. 
+**Note:** OpenModelica source files (.mo files) are provided for reference. Install OpenModelica and OpenIPSL if you want to export FMUs by compiling them. 
